@@ -19,10 +19,10 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Waybum
+your_name                                 :
 your_link                                 :
-your_city                                 : Paris
-email_address                             : contact@waybum.com
+your_city                                 :
+email_address                             :
 facebook_username                         :
 instagram_username                        :
 twitter_username                          :
@@ -42,8 +42,8 @@ features                                  :
     description                           : Just be the master of your contents, manage the people who can see or edit your albums.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Add all types of media to your albums
+    description                           : Pictures, videos, GIF and texts
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
