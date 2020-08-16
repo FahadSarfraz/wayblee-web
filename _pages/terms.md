@@ -64,10 +64,75 @@ If, for any reason, the Company believes that the User fails to comply with thes
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 4. POSTS
+When posting on the Mobile App, the User must comply with these GTCU and any instructions and policies posted on the Mobile App by the Company. The Company also reserves the right to set a storage limit, communicated to the User, regarding contents that can be hosted on the Mobile App.
+
+The content and account of any User who fails to comply with the GTCU or instructions given by the Company may be deleted.
+
+Posts on the Mobile App are listed and ranked randomly and/or chronologically or according to the choices and filters selected by any User from his/her account. The Company does not receive any remuneration likely to influence or change the listing of posts.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 5. RESPONSIBILITY OF THE COMPANY
+The Company shall be responsible towards the Users for the proper fulfilment of the obligations resulting from these GTCU. The Company may not be held responsible for any breach of these GTCU attributable to the User, to a third party to this contract, or to any event beyond its control that could not reasonably be expected.
+
+As part of the simple provision of access to the Mobile App, the Company merely acts as a technical service provider and may not in any case be held responsible for acts of use or exploitation of the Mobile App by the User or committed using the User’s identifiers.
+
+The Company shall make every effort to ensure uninterrupted access to the Mobile App but can in no case be held liable if the User cannot gain access to the Mobile App in case of unavailability related to maintenance operations or the failure of the Internet network or for any other reason outside its control. The User shall remain fully responsible for the security of his/her equipment (computers, telephone, tablet, software, means of telecommunication, etc.) permitting access to the Mobile App, which remains the exclusive responsibility of the User in the same way as expenses incurred by use of telecommunications.
+
+The Company also shall not bear any responsibility for the content or any other element hosted on the Mobile App and/or the Application and posted by Professionals where the Company has not been previously and effectively notified of their clearly unlawful nature by means of a notification in accordance with the provisions of Article 6.I.5 of French Law 2004-575 for confidence in the digital economy.
+
+Lastly, the Company may not be held responsible for any breach of any of its contractual obligations due to the occurrence of a major case.
+
+<br>
+
+## 6. INTELLECTUAL PROPERTY
+All elements of this Mobile App and the Mobile App itself are protected by copyright, the law on trademarks, designs, and models, and/or all other intellectual property rights. These elements are the exclusive property of the Company. All of these rights are reserved worldwide.
+
+The Company’s name and trademark and any logos, designs and models, stylised letters, figurative marks, and all symbols represented on this Mobile App are and shall remain the exclusive property of the Company.
+
+No title or right whatsoever over any element or software shall be obtained by downloading or copying elements of this Mobile App. The User is strictly prohibited from reproducing (except for his/her personal and non-commercial use), posting, editing, transmitting, distributing, showing, removing, deleting, or adding to this Mobile App and to the elements and software that it contains, modifying or performing any work using them as a base, or selling or participating in any sale in relation with this Mobile App, the elements of this Mobile App, or any software relating thereto.
+
+Any use by the User of the corporate names, trademarks, and distinctive signs belonging to the Company is strictly prohibited, except with the Company’s prior express consent.
+
+Contents provided by the User, such as photographs and videos possibly illustrating the User’s posts on the Mobile App, or created by the User shall remain the User’s property and under the User’s exclusive responsibility.
+
+Nevertheless, the User hereby grants to the Company a worldwide right to use any content provided by way of the Mobile App for the duration of existence of his/her account on the Mobile App. This right of use shall include, in particular, the Company’s right to reproduce, represent, adapt, translate, modify, digitise, use, or sub-license the User’s contents (information, images, videos, etc.) on any part of the Mobile App and/or in the Company’s mailings and, in general, on all electronic communication media (e-mail, SMS, MMS, WAP, Internet, social networks). Before any reuse of the User’s content within this framework, the Company shall inform the User of the content and the proposed use.
+
+The User acknowledges that the contents that he/she posts and accessible via the Mobile App must not infringe the rights of third parties and that he/she is authorised to reproduce them and/or disseminate them to the public on the Internet. In this respect, the User shall protect the Company from any and all complaints, claims of ownership, and legal or other proceedings relating to the aforementioned contents and undertakes to compensate the Company fully for any resulting expenses and losses incurred by the Company.
+
+<br>
+
+## 7. PERSONAL DATA
+In accordance with the French data protection law of 6 January 1978, as amended, the User is hereby informed that the Company collects and processes the User’s personal data in order to allow the User to use the Mobile App.
+
+The User shall have a right to object to, access, correct, and delete personal data about him/her as well as a right to object to their collection and processing on legitimate grounds, which the User may exercise under the conditions provided for by law by sending an e-mail to the Company at the following address: contact@waybum.com
+
+More details about the processing of Users’ personal data and the management of the cookies by the Company are available in the Company’s Privacy Policy.
+
+<br>
+
+## 8. NEWSLETTER
+By creating an account on the Mobile App, the User accepts that the Company may forward a year-end newsletter to him/her containing an overall assessment of the Mobile App’s use.
+
+Subscribed members shall have the ability to unsubscribe from the newsletter by clicking on the link provided for this purpose in each newsletter or by unticking the corresponding box in the ‘My info’ section of his/her user settings.
+
+<br>
+
+## 9. THIRD-PARTY WEB SITES
+The Mobile App may contain hyperlinks to third-party sites. Links reproduced to these third-party web sites do not imply any approval of these third-party web sites by the Company.
+
+The Company has no control over any information, products, and/or services offered by third parties on the aforementioned web sites and therefore shall not assume any liability in this regard.
+
+<br>
+
+## 10. APPLICABLE LAW AND ASSIGNMENT OF JURISDICTION
+These GTCU are governed by the laws of France.
+
+Choice-of-law rules are excluded in favour of the complete and unreserved application of French law, unless applicable provisions of the User’s country of residence require the application of other rules without the ability to exclude such provisions by contract. 
+
+In the event of a dispute, the User shall have the possibility of resorting to a conventional mediation procedure or any other alternative method of settling disputes. In this regard, the European Commission provides an online dispute resolution platform to which the User can refer here: http://ec.europa.eu/consumers/odr/.
+
+If no agreement is obtained amicably or after mediation, disputes shall be subject to the non-exclusive jurisdiction of the courts of Paris, France.
+
+However, this clause cannot prevent the User acting in the capacity of a consumer from asserting his/her rights in one of the courts having territorial jurisdiction by virtue of the applicable law of civil procedure or in the jurisdiction of the place where he/she resided at the time of entry into this contract.
