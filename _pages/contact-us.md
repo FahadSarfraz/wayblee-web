@@ -5,9 +5,11 @@ include_in_header: true
 ---
 
 # Contact Us
-Si vous rencontrez des difficultés avec l’application, Waybum n’hésitez pas à nous contacter à l’aide du formulaire « contactez-nous » disponible sur l'application ou par e-mail à **<contact@waybum.com>**.
 
-Vous pouvez également nous faire part de vos retours, de vos suggestions et de votre expérience sur Waybum.
+If you have any difficulties with the Waybum app, please feel free to contact us using the "contact us" form available on Waybum app or by email at **<contact@waybum.com>**.
+
+You can also let us know your feedback, suggestions and experience with Waybum.
+
 <br>
 
 ### `Email Us at :`
