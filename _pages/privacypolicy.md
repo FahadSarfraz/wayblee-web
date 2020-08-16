@@ -81,5 +81,54 @@ Lastly, if the Company undertakes or is involved in a merger, acquisition, restr
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 5. What are the security and hosting measures associated with the storage of your personal data?
+
+We strive to secure our Users’ personal data in a suitable and appropriate manner and have taken the necessary precautions to preserve and ensure that our hosting subcontractors preserve the security and confidentiality of such data and, in particular, prevent such data from being deformed, damaged, or communicated to unauthorised persons.
+
+However, no mode of transmission on the Internet or mode of storage of electronic information is 100% secure. Accordingly, we cannot guarantee the security of data transmitted to us or that of personal data that we store. You shall be notified of any potential security breach in strict compliance with the applicable regulations.
+
+All personal data that we collect are hosted in France. We do not transfer personal data to third parties established outside of the European Union not providing an adequate level of protection in the light of the legal requirements regarding the protection of personal data.
+
+<br>
+
+## 6. How long do we store your personal data?
+
+Any personal data shall start to be destroyed seven (7) days after the deletion of your User account.
+
+Your personal data shall also be destroyed if you have not logged into your User account for a period of more than sixty (60) days.
+
+<br>
+
+## 7. How do you unsubscribe from Waybum or request the modification/deletion of your personal data?
+
+You can unsubscribe from Waybum at any time by following the applicable procedure described below:
+
+Send a termination request to us via the “contact us” form
+Mention “Termination” in the subject line of the message.
+At any time, you may also review, update, correct, or delete your personal data appearing in your User account on Waybum.
+
+However, all comments, forum posts, and similar contents that you have written may remain publicly available on Waybum and associated with your given name, even after the deletion of your User account.
+
+<br>
+
+## 8. Third-Party Website
+
+The Website may contain links to or interconnections with websites operated by third parties that are not subject to this privacy policy and where the practices relating to the collection and use of personal data are likely to be different from those in force on Waybum.
+
+To the extent that we are neither the owner nor the publisher of such websites, we cannot be held responsible for how such websites collect and use personal data about you. It is recommended that you review the information about the processing of personal data made available by these websites.
+
+<br>
+
+## 9. Amendments to this privacy policy
+
+If this privacy policy is amended, the new policy shall be posted on Waybum.
+
+Users are advised to verify regularly that the privacy policy has not been amended.
+
+<br>
+
+## 10. Right of access, correction, deletion, portability, and opposition
+
+You have a right of access, correction, portability, and deletion of information about you as well as a right to object to the processing of your personal data, subject to justifying a legitimate reason.
+
+These rights may be exercised on simple written request sent to the following address: contact@waybum.com
