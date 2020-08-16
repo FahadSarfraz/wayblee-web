@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Available on iOS and Android
-    description                           : Download Waybum now. Waybum is available in two languages - English and French.
+    description                           : Download Waybum now, and join Waybum comunity.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Create private or collaborative albums
@@ -54,9 +54,9 @@ features                                  :
     description                           : Disscuss with your friends about your album theme
     fontawesome_icon_name                 : comments
 
-  - title                                 : #Feature List
-    description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #star
+  - title                                 : Available in two languages
+    description                           : English and French.
+    fontawesome_icon_name                 : globe-europe
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
