@@ -33,10 +33,10 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+
   - title                                 : Available on iOS and Android
     description                           : Download Waybum now. Waybum is available in two languages : English and French.
     fontawesome_icon_name                 : mobile
-    
     
   - title                                 : Create private or collaborative albums
     description                           : Just be the master of your contents, manage the people who can see or edit your albums.
