@@ -8,13 +8,10 @@ include_in_header: true
 August 16 2020
 
 # Terms and Conditions of Use
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
 
 <br>
 
-## 1.0 APPLICABILITY OF THE GTCU
+## 1. APPLICABILITY OF THE GTCU
 
 The General Terms and Conditions of Use (hereinafter the “GTCU”) are proposed by SARFRAZ FAHAD (hereinafter the “Company”). The Company is the owner and publisher of the Waybum mobile App (hereinafter the “mobile App”).
 
@@ -32,27 +29,38 @@ If certain stipulations of the GTCU are unenforceable for any reason whatsoever,
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 2. USER ACCOUNT
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+Before any use of the features of the Mobile App, the User must first create a personal account on the Mobile App.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+When requesting the opening of a User account, the User must provide information about his/her identity as requested on the registration form. If the User provides inaccurate or obsolete registration data, the Company shall be entitled to refuse to create an account or to suspend any accepted account temporarily or permanently. In particular, the User undertakes to refrain from creating a false identity likely to mislead the Company or third parties or impersonating another person. The User undertakes to immediately update the data initially communicated in case of modifications.
+
+The User shall be responsible for maintaining the confidentiality and security of his/her Mobile App login identifiers. The User must inform the Company immediately of any unauthorised use of his/her identifiers. The Company cannot be held liable for any loss or damage resulting from the User’s proved negligence in protecting his/her login identifiers and/or the personal information related to his/her account.
+
+Once the User has registered on the Mobile App, he/she shall be assigned an account, materialised by a page containing a profile and a profile editing page from which he/she can manage his/her information.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 3. OBLIGATIONS OF USERS
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+The User undertakes to comply with all provisions of these GTCU.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+The User agrees to use the Mobile App for strictly personal use. In this regard, the User shall not:
+
+* Use the Mobile App unlawfully, for any unlawful purpose, or in any manner inconsistent with these GTCU.
+* Post content contrary to law and order and good morals (in particular, advocating for crimes against humanity, inciting racial hatred, child pornography, etc.);
+* Post content not authorised by the Company,
+* Publish commercial solicitations or unwanted content (“spam”) from the Mobile App,
+* Post contents infringing the property rights, particularly intellectual property rights, of third parties.
+* Sell, copy, reproduce, rent, lend, distribute, transfer or grant a sub-license for all or part of the contents appearing on the Mobile App, or decompile, extract, disassemble, modify, display in a form readable by the User, attempt to discover any source code, or use any software activating or including all or part of the Mobile App.
+* Attempt to obtain unauthorised access to the Mobile App’s computer system or engage in any activity disrupting, decreasing the quality or interfering with the performance, or deteriorating the features of the Mobile App.
+* Use the Mobile App for abusive purposes by voluntarily introducing viruses or any other malicious program and attempt to gain unauthorised access to the Mobile App.
+* Infringe the Company’s intellectual property rights.
+* Denigrate the Mobile App and/or the Products as well as the Company on social networks and any other means of communication.
+
+If, for any reason, the Company believes that the User fails to comply with these GTCU, the Company may, at any time and at its sole discretion, eliminate the User’s access to the Mobile App and take all measures, including any civil and criminal legal action, against the User.
+
+ 
 
 <br>
 
