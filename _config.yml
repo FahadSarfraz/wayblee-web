@@ -44,15 +44,15 @@ features                                  :
 
   - title                                 : Add all types of media to your albums
     description                           : Pictures, videos, GIF and texts
-    fontawesome_icon_name                 : photo-video
+    fontawesome_icon_name                 : camera
 
   - title                                 : Share all your moments with your friends
     description                           : Collaborate with your friends within your albums and share each of your moments
     fontawesome_icon_name                 : share-alt
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Chat with your friends within an album
+    description                           : Disscuss with your friends about your album theme
+    fontawesome_icon_name                 : comments
 
   - title                                 : #Feature List
     description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
