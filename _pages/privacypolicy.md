@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+August 16 2020
 
 # Privacy Policy
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.

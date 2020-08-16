@@ -1,29 +1,34 @@
 ---
 layout: page
-title: Terms And Condition
+title: Terms And Conditions
 include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+August 16 2020
 
-# Privacy Policy
+# Terms and Conditions of Use
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
 **Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 1.0 APPLICABILITY OF THE GTCU
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+The General Terms and Conditions of Use (hereinafter the “GTCU”) are proposed by SARFRAZ FAHAD (hereinafter the “Company”). The Company is the owner and publisher of the Waybum mobile App (hereinafter the “mobile App”).
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+The purpose of these GTCU is to define all the terms and conditions according to which the Company allows Users to use the Mobile App (hereinafter the “Users”).
+
+They therefore apply to any use of the Mobile App. The User declares to have read and accepted these GTCU before any use of the Mobile App.
+
+Prior to the entry into force of any new terms and conditions, the Company shall inform Users by any appropriate means of the entry into force of any new provisions. If the User does not express any objections within one (1) week, the amendments proposed by the Company shall be considered as having been accepted by the User.
+
+Acceptance of these GTCU assumes on the part of Users that they have the necessary full legal capacity or, if not, have received permission from a legal guardian if they lack such capacity, or have received permission from their legal representative if they are minors, or hold a representation mandate if they are acting on behalf of a legal entity.
+
+If the Company chooses not to enforce any provision of these GTCU at a given time, this cannot be interpreted as a waiver of any provision of the GTCU at a later time.
+
+If certain stipulations of the GTCU are unenforceable for any reason whatsoever, including because of an applicable law or regulation, the Parties shall remain bound by the other stipulations of the GTCU and shall endeavour to remedy the unenforceable clauses in the same spirit in which they were entered into.
 
 <br>
 
