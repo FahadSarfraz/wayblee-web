@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Create private or 
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Create private or collaborative albums
+    description                           : Just be the master of your contents, manage the people who can see or edit your albums.
     fontawesome_icon_name                 : magic
     fontawesome_icon_color                : red
     
