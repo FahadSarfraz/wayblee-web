@@ -8,51 +8,76 @@ include_in_header: true
 August 16 2020
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Please read this privacy policy carefully to understand how your personal data are collected, processed, and stored during your use of Waybum mobile App (hereinafter referred to indifferently as “Waybum”).
+Under this privacy policy, the entity responsible for processing the collection of personal data is: SARFRAZ FAHAD (hereinafter the “Company”, “we”, “us”, and “our”), a single person business, whose registered office is located at 13 avenue Louis Lemesle – 93150 Le Blanc Mesnil, France, register under number 852 975 903.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
-<br>
-
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+The Company can be reached at the following e-mail address : contact@waybum.com
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 1. When can we collect personal data about you?
+We receive and process various information, which may include personal data about you, when you access and use Waybum, particularly when:
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+you complete any information form on Waybum, particularly when you register or when you update your User account information,
+you link your Waybum account to an account opened on a third-party website or social network (e.g. Facebook, Google, Whatsapp), in which case, we shall obtain the personal information that you have disclosed on the third-party website in question, but within the limits permitted by the privacy settings that you have defined on that third-party website.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 2. What personal information and data do we collect?
+a. User’s contact information
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+When you register on Waybum, you shall be asked to enter certain personal data necessary for the creation of your User account, namely:Email
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Surname
+Given name
+Date of birth
+Sex
+b. Usage and connection data
+
+When you use Waybum, we may collect different types of information relating to your use of Waybum, such as the pages visited and the order in which they are visited, the number of visits, the number of notifications, the number of times the Website was launched, the number of data updates, the number of communications made from the Website, as well as any information collected through the use of cookies.
+
+On this occasion, we may also collect connection data, i.e., information that is automatically saved by our servers when you access Waybum or when you use it, regardless of whether you are registered on Waybum or logged into your User account. 
+
+For example, these connection data may be your IP address, the date and time when you access Waybum or use it, the type of operating system, the type of connection, and the type of mobile equipment.
+
+c. Information collected via cookies and tracking technologies
+
+We may use cookies and other similar technologies.
+
+Cookies are small files stored on the computer of visitors and subscribed members with the essential goal of facilitating navigation on the Website.
+
+However, cookies may also have an advertising purpose, and we may allow our commercial partners to use their cookies and other tracking technologies.
+
+For more details about the cookies used and how to disable them, please consult our Cookies Policy.
+
+d. Information collected via third-party social plugins
+
+Waybum may use social plugins provided and operated by third-party websites, such as the “Like” button on the social network Facebook. In such cases, with your consent, we may access the personal data that you have disclosed and made public on the third-party website, within the limits permitted by your settings and permissions defined on the third-party website concerned.
+
+Such an interconnection also makes it possible to send the information that you view on Waybum to the third-party website concerned. If you are not logged into your account with the third-party website, this third-party website will not be able to know your identity. If you are logged into your account with the third-party website, this website will be able to link information about your visit to Waybum and your account opened with it. Similarly, your interactions with the social plugin may be saved by the third-party website.
+
+Please consult the applicable personal data protection policies of the third-party website concerned to obtain more information about its data practices, such as the type of data collected about you and how this third-party website uses such data from the interconnection with Waybum.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 3. What are the purposes for collecting your personal data?
+
+We collect, process, and store your personal data for the following purposes:
+
+When you use Waybum and create a User account, personal data about you will be processed and stored to allow for the creation of your User account, in accordance with the commitments that we have made on Waybum and in our General Terms and Conditions of Use. The processing of your personal data is thus based on the respect of our contractual commitments.
+As part of the proper administration of our Website, we may also collect your personal data in order to send you administrative messages, reminders, technical notifications, updates, and security alerts, in accordance with the commitments of our General Terms and Conditions of Use. The processing of your personal data is thus also based on respect of our contractual commitments.
+We also collect data relating to your use and connection to Waybum, in order to operate, protect, improve, and optimise Waybum and the experience of our Users, even if they do not have a User account, for example to produce analytics, statistics, and research or to personalise or otherwise adapt the user experience on Waybum. The processing of such usage and connection data is thus based on our legitimate interest to provide and improve our Services.
+
+<br>
+
+## 4. In what situations can we disclose or share your personal data and with whom?
+
+We may share your personal data in the following situations:
+
+Your personal data may be transmitted to technical partners, particularly our host, allowing us to provide access to Waybum in accordance with the contractual terms and conditions signed between the technical partner and the Company, which cannot derogate from the terms and conditions of this privacy policy.
+You may link your Waybum account to an account opened on a third-party social network website. In such a situation, certain information about your activities on Waybum may be shared with that third-party website. The posting and display of information that you provide to Waybum through these links depend on the settings and permissions that you have defined on the third-party website.
+Your personal data may be communicated, where appropriate, to the police (on judicial requisition) or to any person legally authorised to receive such information (on court order).
+Lastly, if the Company undertakes or is involved in a merger, acquisition, restructuring, transfer of assets, or bankruptcy or insolvency procedure, it may sell, transfer, or share all or part of its assets, including your personal data. In that case, we shall inform you before your personal data are transferred and governed by another personal data protection charter.
 
 <br>
 
