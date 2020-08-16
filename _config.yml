@@ -41,7 +41,6 @@ features                                  :
   - title                                 : Create private or collaborative albums
     description                           : Just be the master of your contents, manage the people who can see or edit your albums.
     fontawesome_icon_name                 : magic
-    fontawesome_icon_color                : red
     
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
@@ -99,7 +98,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#fa3158"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
