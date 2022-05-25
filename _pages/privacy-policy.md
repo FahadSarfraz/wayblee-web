@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-August 16 2020
+May 30 2022
 
 # Privacy Policy
 Please read this privacy policy carefully to understand how your personal data are collected, processed, and stored during your use of Wayblee mobile App (hereinafter referred to indifferently as “Wayblee”).
