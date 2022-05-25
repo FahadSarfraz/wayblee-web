@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e672246-d4bd-460b-80fc-ba1a2177954f" name="Default Changelist" comment="" />
+    <list default="true" id="1e672246-d4bd-460b-80fc-ba1a2177954f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -30,6 +33,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,17 +46,11 @@
       <workItem from="1597594429351" duration="995000" />
       <workItem from="1597609630038" duration="96000" />
       <workItem from="1612735405977" duration="634000" />
+      <workItem from="1653508741858" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="340" y="143" width="600" height="492" key="find.popup" timestamp="1612736383043">
-      <screen x="0" y="23" width="1280" height="735" />
-    </state>
-    <state x="340" y="143" width="600" height="490" key="find.popup/0.23.1280.733@0.23.1280.733" timestamp="1612736266402" />
-    <state x="340" y="143" width="600" height="492" key="find.popup/0.23.1280.735@0.23.1280.735" timestamp="1612736383043" />
   </component>
 </project>
