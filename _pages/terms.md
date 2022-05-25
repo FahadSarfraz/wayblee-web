@@ -13,7 +13,7 @@ August 16 2020
 
 ## 1. APPLICABILITY OF THE GTCU
 
-The General Terms and Conditions of Use (hereinafter the “GTCU”) are proposed by SARFRAZ FAHAD (hereinafter the “Company”). The Company is the owner and publisher of the Waybum mobile App (hereinafter the “mobile App”).
+The General Terms and Conditions of Use (hereinafter the “GTCU”) are proposed by SARFRAZ FAHAD (hereinafter the “Company”). The Company is the owner and publisher of the Wayblee mobile App (hereinafter the “mobile App”).
 
 The purpose of these GTCU is to define all the terms and conditions according to which the Company allows Users to use the Mobile App (hereinafter the “Users”).
 
@@ -106,7 +106,7 @@ The User acknowledges that the contents that he/she posts and accessible via the
 ## 7. PERSONAL DATA
 In accordance with the French data protection law of 6 January 1978, as amended, the User is hereby informed that the Company collects and processes the User’s personal data in order to allow the User to use the Mobile App.
 
-The User shall have a right to object to, access, correct, and delete personal data about him/her as well as a right to object to their collection and processing on legitimate grounds, which the User may exercise under the conditions provided for by law by sending an e-mail to the Company at the following address: contact@waybum.com
+The User shall have a right to object to, access, correct, and delete personal data about him/her as well as a right to object to their collection and processing on legitimate grounds, which the User may exercise under the conditions provided for by law by sending an e-mail to the Company at the following address: contact@wayblee.com
 
 More details about the processing of Users’ personal data and the management of the cookies by the Company are available in the Company’s Privacy Policy.
 

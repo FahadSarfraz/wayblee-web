@@ -5,7 +5,7 @@ page_title                                :                                     
 ios_app_id                                : 1525614399                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/fr/app/id1525614399                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.waybum.mobile                                          # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.wayblee.mobile                                          # Enter Google Play Store URL.
 presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : © 2020 - SARFRAZ FAHAD - Waybum
+your_name                                 : © 2020 - SARFRAZ FAHAD - Wayblee
 your_link                                 :
 your_city                                 :
 email_address                             :
@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Available on iOS and Android
-    description                           : Download Waybum now, and join Waybum comunity.
+    description                           : Download Wayblee now, and join Wayblee comunity.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Create private or collaborative albums
@@ -73,11 +73,11 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#00000"
+body_background_color                     : "#000000"
 
-link_color                                : "#F96D74"
+link_color                                : "#ffffff"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
