@@ -42,16 +42,16 @@ features                                  :
     description                           : Just be the master of your contents, manage the people who can see or edit your albums.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Add all types of media to your albums
-    description                           : Pictures, videos, GIF and texts
+  - title                                 : Add all types of media to your profile are your albums
+    description                           : Pictures, videos and GIF.
     fontawesome_icon_name                 : camera
 
   - title                                 : Share all your moments with your friends
-    description                           : Collaborate with your friends within your albums and share each of your moments
+    description                           : Share each of your moments with your friends with in an album are with instant medias.
     fontawesome_icon_name                 : share-alt
 
   - title                                 : Chat with your friends within an album
-    description                           : Disscuss with your friends about your album theme
+    description                           : Disscuss with your friends about your album theme.
     fontawesome_icon_name                 : comments
 
   - title                                 : Available in two languages
