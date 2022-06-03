@@ -84,7 +84,7 @@ app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#ffffff"
-feature_text_color                        : "#BFBFBF"
+feature_text_color                        : "#B0B0B0"
 
 feature_icons_foreground_color            : "#fa3158"
 feature_icons_background_color            : "#e6e6e6"
@@ -92,7 +92,7 @@ feature_icons_background_color            : "#e6e6e6"
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#ffffff"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#B0B0B0"
 
 
 
