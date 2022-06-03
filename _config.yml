@@ -38,13 +38,13 @@ features                                  :
     description                           : Download Wayblee now, and join Wayblee comunity.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Create private or collaborative albums
-    description                           : Just be the master of your contents, manage the people who can see or edit your albums.
-    fontawesome_icon_name                 : magic
-
   - title                                 : Add all types of media to your profile are your albums
     description                           : Pictures, videos and GIF.
     fontawesome_icon_name                 : camera
+
+  - title                                 : Create private or collaborative albums
+    description                           : Just be the master of your contents, manage the people who can see or edit your albums.
+    fontawesome_icon_name                 : magic
 
   - title                                 : Share all your moments with your friends
     description                           : Share each of your moments with your friends with in an album are with instant medias.
